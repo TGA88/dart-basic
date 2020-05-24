@@ -8,6 +8,7 @@ void main(List<String> args) {
     bool success = SaveProcess();
     isStarted = !success; //Save สำเร็จให้จบการทำงาน
   }
+
 }
 
 //Define Function
