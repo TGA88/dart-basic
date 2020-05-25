@@ -7,5 +7,6 @@ void main(List<String> args) {
   boy.MySayHi();
 
   Person person = boy as Person;
+  //polymopishm
   print(person.SayHi());
 }
